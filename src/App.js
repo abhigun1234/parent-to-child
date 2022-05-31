@@ -10,7 +10,7 @@ function App() {
       {/* <Student name="abhi" email="abhi@gmail.com"></Student>
       <Student name="raj" email="abhi@gmail.com"></Student>
       <Faculty name="raj" email="abhi@gmail.com" salary="5000"></Faculty> */}
-      <Parent></Parent>
+      <Parent  name="rajesh" ></Parent>
     </div>
   );
 }
